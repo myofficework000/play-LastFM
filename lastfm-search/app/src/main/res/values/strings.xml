@@ -1,0 +1,13 @@
+<resources>
+    <string name="no_results">Hm no results found.\nTry Michael Jackson maybe?</string>
+    <string name="query_hint">Search tracks, artists, albums</string>
+    <string name="search_result_image">Search result image</string>
+    <string name="title_albums">Albums</string>
+    <string name="title_artists">Artists</string>
+    <string name="title_tracks">Tracks</string>
+    <string name="back_button_content_description">Back button</string>
+    <string name="search_result_image_content_description">Search result image</string>
+    <string name="check_on_lastfm">Check on last.fm</string>
+    <string name="attribution">powered by last.fm</string>
+    <string name="developer">developed by Abhishek Pathak</string>
+</resources>

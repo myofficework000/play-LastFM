@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- margins & paddings -->
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_default">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_default">16dp</dimen>
+
+    <dimen name="nav_header_height">200dp</dimen>
+
+
+    <!-- Search -->
+    <dimen name="search_result_card_corner_radius">2dp</dimen>
+    <dimen name="search_result_card_height">60dp</dimen>
+    <dimen name="search_result_card_elevation">1dp</dimen>
+
+</resources>

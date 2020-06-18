@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">play lastfm</string>
+    <string name="api_key">90f612f27ead44d66bcd1e3a8f1c0ed0</string>
+    <string name="search_api_base_url">http://ws.audioscrobbler.com</string>
+    <string name="search_api_version">2.0</string>
+
+</resources>
