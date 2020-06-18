@@ -1,5 +1,5 @@
-# lastfm Search Client
-### by Genc Tasbasi
+# lastfm Search Album,Artist and tracks/songs
+### by Abhishek Pathak
 
 ## Technologies and libraries used:
  - Proper MVVM architecture with Android Jetpack components
@@ -13,6 +13,7 @@
  - Single activity app as suggested by Google
  - NavigationComponent
  - Timber for logging
- 
- ![Search screen](http://escapp.co.uk/projects/shared_resources/lastfm_search.png)
- ![Details screen](http://escapp.co.uk/projects/shared_resources/lastfm_details.png)
+
+ ![Splash screen](https://github.com/cheetahmail007/play-LastFM/blob/master/lastfm-search/Screenshots/1.png)
+ ![Search screen](https://github.com/cheetahmail007/play-LastFM/blob/master/lastfm-search/Screenshots/2.png)
+ ![Details screen](https://github.com/cheetahmail007/play-LastFM/blob/master/lastfm-search/Screenshots/3.png)
